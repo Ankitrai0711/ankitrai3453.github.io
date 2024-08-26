@@ -11,3 +11,8 @@ I am a final-year B.Tech student with a strong background in Java, Python, JavaS
 - **Weather Forecast App:** A web app providing real-time weather updates.
 - **Gate Pass Management System:** A Django-based system for managing gate passes.
 - **Virtual Mouse:** A Python project using hand gestures to control the mouse.
+- 
+- ## Contact
+
+- **Email:** [ankitrai3453@gmail.com](mailto:ankitrai3453@gmail.com)
+- **Phone:** +91 8887691867
